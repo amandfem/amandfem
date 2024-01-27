@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- ⚜️Meu nome é Amanda Ferreira. Prazer em conhecê-lo!
-- 
+ ⚜️Meu nome é Amanda Ferreira. Prazer em conhecê-lo!
+ 
 📚 Estudante de Engenharia da Computação 📚
 
 🏛 Musicista 🏛
